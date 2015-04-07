@@ -12,20 +12,20 @@
                     },
                     {
                         "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_2.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_2.png",
+                        "url": "https://raw.githubusercontent.com/teyri/Apple/master/wall_15.jpg",
+                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/wall_15_thumb.jpg",
                         "name": "WP 2"
                     },
                     {
                         "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_3.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_3.png",
+                        "url": "https://raw.githubusercontent.com/teyri/Apple/master/wall_16.jpg",
+                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/wall_16_thumb.jpg",
                         "name": "WP 3"
                     },
                     {
                         "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_4.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_4.png",
+                        "url": "https://raw.githubusercontent.com/teyri/Apple/master/wall_17.jpg",
+                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/wall_17_thumb.jpg",
                         "name": "WP 4"
                     }
                 ]
