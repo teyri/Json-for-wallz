@@ -2,12 +2,12 @@
     "wallpapers": {
         "category": [
             {
-                "name": "Category Title",
+                "name": "Apple",
                 "wallpaper": [
                     {
                         "author": "Wsotck Wallpapers",
                         "url": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_01.png",
-                        "thumbUrl": "",
+                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_01_thumb.png",
                         "name": "WP 1"
                     },
                     {
