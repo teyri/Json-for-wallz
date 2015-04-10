@@ -7,13 +7,13 @@
                     {
                         "author": "Wsotck Wallpapers",
                         "url": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_01.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_01_thumb.png",
+                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_01_thumb.jpg",
                         "name": "WP 1"
                     },
                     {
                         "author": "Wsotck Wallpapers",
-                        "url": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_02.png",
-                        "thumbUrl": "https://raw.githubusercontent.com/teyri/Apple/master/apple_wallpaper_02_thumb.png",
+                        "url": "https://github.com/teyri/Apple/blob/master/apple_wallpaper_02.png",
+                        "thumbUrl": "https://github.com/teyri/Apple/blob/master/apple_wallpaper_02_thumb.jpg",
                         "name": "WP 2"
                     },
                     {
@@ -30,35 +30,7 @@
                     }
                 ]
             },
-            {
-                "name": "Category Title 2",
-                "wallpaper": [
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_1.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_1.png",
-                        "name": "WP 1"
-                    },
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_2.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_2.png",
-                        "name": "WP 2"
-                    },
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_3.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_3.png",
-                        "name": "WP 3"
-                    },
-                    {
-                        "author": "By Blah Blah Blah",
-                        "url": "http://www.some-url.com/wp_4.png",
-                        "thumbUrl": "http://www.some-url.com/wp_thumb_4.png",
-                        "name": "WP 4"
-                    }
-                ]
-            }
+           
         ]
     }
 }
